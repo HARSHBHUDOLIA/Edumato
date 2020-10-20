@@ -1,0 +1,30 @@
+.Second-Rectangle{
+  width: 100%;
+ margin-bottom: 30px;
+
+}
+
+
+.button{
+  margin-top: 10px;
+  padding: 0;
+}
+.button2{
+  margin-right: 10px;
+}
+.image-container{
+
+  max-width:100%;
+      height:auto;
+
+
+}
+
+.The-Big-Chilli-Cakery{
+  color: #192f60;
+  font-size: 30px;
+  font-family: serif;
+
+  margin-top: 50px;
+  font-weight: bold;
+}

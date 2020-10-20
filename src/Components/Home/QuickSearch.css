@@ -1,0 +1,58 @@
+.quick-searches{
+  color: #192f60;
+  font-family:serif;
+  margin-left: 34px;
+  margin-top: 20px;
+}
+.second-text{
+  color:#8c96ab;
+  font-family:serif;
+  margin-left: 34px;
+  margin-top: 10px;
+}
+.row{
+  margin:auto;
+}
+.grid-layout{
+
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.image-box{
+  padding: 0;
+}
+
+.image{
+  height: 100%;
+  width:100%;
+}
+
+
+/* This is for second Card */
+
+.second-img{
+  background-image: url('https://i.ibb.co/vj9Cdz5/img-2.jpg');
+  background-size: cover;
+}
+.second-box{
+  width:100%;
+  height: 160px;
+  box-shadow: 1px 3px 20px black;
+  text-align: left;
+  margin-bottom: 10px;
+}
+.second-heading{
+  color: #192f60;
+  font-family: serif;
+  font-size: 28px;
+  border-bottom: 5px;
+}
+.second-para{
+
+  color: #8c96ab;
+  font-family: serif;
+  font-size: 20px;
+}
+/* This is Third card */
